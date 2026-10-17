@@ -1,0 +1,72 @@
+
+################################################################################
+TEMPERATURE = 0.5 | SEED = "to be or not to be , that is the"
+################################################################################
+[SimpleRNN] to be or not to be, that is the || people, as he had made you, to morrow, to the earl of the rest, that i may not you, to have a man. third servingman: why, i am a while i have
+[BiRNN    ] to be or not to be, that is the || people, as he is to you, as i have been to bear a little. what, i have not you, i have not to rome, she is not not: for you, i am
+[LSTM     ] to be or not to be, that is the || people, as he had been you to see and yet, i will be not. what, i am not that our general is? leontes: if she were so, i am a while, and
+[GRU      ] to be or not to be, that is the || provost. polixenes: that's the good fellow. brutus: away, and the people. third citizen: that's not that our general. third servingman: ay, and i am: for you are, and
+
+################################################################################
+TEMPERATURE = 0.5 | SEED = "my lord , i do beseech you to"
+################################################################################
+[SimpleRNN] my lord, i do beseech you to || morrow, and i will be not, they have into my father's blood. i am a matter. first murderer: i pray, this, i pray not to but in my name. menenius: and
+[BiRNN    ] my lord, i do beseech you to || clarence. queen elizabeth: i thank you, i say to morrow, we am, and you know you, makes you, for this, come, i'll see but i am so. menenius: i
+[LSTM     ] my lord, i do beseech you to || the world. third citizen: marry, they have not deserved; for we are not to you. first murderer: i pray you, good sir, i'll to the point. coriolanus: i would not
+[GRU      ] my lord, i do beseech you to || the world. third servingman: marry, they have made a very matter. menenius: i will not a man, you shall not be, for you are to the common. coriolanus: i would not
+
+################################################################################
+TEMPERATURE = 0.5 | SEED = "i will not leave thee , for the king"
+################################################################################
+[SimpleRNN] i will not leave thee, for the king || , i would be not. why, i am a man, i am a father, for the king of france, and the city. aufidius: o, he is the seas, and i am
+[BiRNN    ] i will not leave thee, for the king || of the night, to be it, and the blood of the crown, and i be a husband, that i have not the city. sicinius: no more, to the crown, and i am
+[LSTM     ] i will not leave thee, for the king || , i would be a courtesy. i am sure, and that i am not, that he had not possess. coriolanus: o, i am too, but thy heart is. virgilia: what,
+[GRU      ] i will not leave thee, for the king || , the queen of york. gloucester: and that he did not, and i have a little friend to the king, and the king. gloucester: and that's thy heart, who makes thy brother with
+
+################################################################################
+TEMPERATURE = 1.0 | SEED = "to be or not to be , that is the"
+################################################################################
+[SimpleRNN] to be or not to be, that is the || drum; when but his body: stirs of the ladies of the flowers: that tell them will quickly stay coming. green that is thy part to make living hands, had but to yield your cords,
+[BiRNN    ] to be or not to be, that is the || king's best princess but make here: stirs, is this eyes? sicinius: more tell them will? stay coming, discharge that is thing, kill rich and hands, had but to yield your cords,
+[LSTM     ] to be or not to be, that is the || drum. angelo: make here: how we hath so so now, as more to them will be found. romeo: that is thy part to make living hands, had but to yield your cords,
+[GRU      ] to be or not to be, that is the || drum. angelo: make you: stirs, is this so light, as all my wife will quickly stay. romeo: that is thy part again, and each, sea but to yield me, and
+
+################################################################################
+TEMPERATURE = 1.0 | SEED = "my lord , i do beseech you to"
+################################################################################
+[SimpleRNN] my lord, i do beseech you to || clarence: which! good news? valiant uncle capulet: haply prince thou unhappy again. lieutenant is: then my shoulder is held a way. this, he an you must the county strokes, that thou
+[BiRNN    ] my lord, i do beseech you to || clarence: which! good news? lady marshal: then, prince thou unhappy that shall thy hate. then my shoulder is me; and else forth, he an you must the rich strokes, that thou
+[LSTM     ] my lord, i do beseech you to || the crown. king richard ii: valiant uncle, then, prince edward, that shall thy title excels thy my shoulder branch on him and else this, he an you must sat ourselves. 'tis that duty
+[GRU      ] my lord, i do beseech you to || the crown. king richard ii: valiant uncle, too lancaster, thou unhappy that shall thy title. then my shoulder branch therein borne and else this, he an true folly, and strokes in my duty
+
+################################################################################
+TEMPERATURE = 1.0 | SEED = "i will not leave thee , for the king"
+################################################################################
+[SimpleRNN] i will not leave thee, for the king || which hath am falls nought out; thou; but i might kill us we than answer. john on aumerle no home, for ere thy honours mouths. alack, if we had so mother to the other
+[BiRNN    ] i will not leave thee, for the king || which prosperity to these nought you'll be full; but i might think if we are, while them on me no. volumnia: ere thy general mouths with liberty, if we had so done to the gift
+[LSTM     ] i will not leave thee, for the king || , if i are nought out; thou, sir, they think if we are, while them on him no. volumnia: ere thy general is an earnest would you die: so must make the gift
+[GRU      ] i will not leave thee, for the king || which makes thy groans nought out; where is so easy lion when if we seek, while them on him no. volumnia: ere you are mouths with earnest, if we had so mother to the gift
+
+################################################################################
+TEMPERATURE = 1.5 | SEED = "to be or not to be , that is the"
+################################################################################
+[SimpleRNN] to be or not to be, that is the || feeling dream young posts a child advertised carry winter. swords destroy my husband! i' day judgment many fellow seem'd misfortune honours with keep'st, unless this all spent blood! like on the plant. shepherd! well
+[BiRNN    ] to be or not to be, that is the || feeling dream gloucester's posts a child advertised their winter. swords destroy my husband! i' day judgment many life seem'd misfortune perform with keep'st, unless this all spent newly race like on the tale. shepherd! shepherd
+[LSTM     ] to be or not to be, that is the || feeling dream young posts a child profess'd: die with swords women sing in every exclaims; judgment many flies seem'd with me; made thy name to this consent i stood like on the trial. shepherd: well
+[GRU      ] to be or not to be, that is the || feeling certain young posts a child profess'd: tribunes with swords women sing in every exclaims day could many flies seem'd misfortune me; keep'st thy name castle all spent blood! like traitors i plant. shepherd: well
+
+################################################################################
+TEMPERATURE = 1.5 | SEED = "my lord , i do beseech you to"
+################################################################################
+[SimpleRNN] my lord, i do beseech you to || keys i shine, deeper more mould wont for some dislike to leave a ale must look it springs at right my brother's paris champion; think to wild same kindly when boldly, lost all shalt deep see ago
+[BiRNN    ] my lord, i do beseech you to || keys i shine to deeper content, wont for some news to leave a hundred always look it give at right banishment and paris champion discourse before to wild public fiend when boldly trumpet lost as shalt deep see ago
+[LSTM     ] my lord, i do beseech you to || keys i shine, should content a wont for some news to leave a hundred livery look it framed at right banishment and paris, we think to wild same kindly when boldly bade us all shalt pay see a
+[GRU      ] my lord, i do beseech you to || keys i shine, deeper more mould wont for some news to leave a hundred form look it framed at right my brother's paris champion; tear up hence from their blood boldly, had as much deep breaths ago
+
+################################################################################
+TEMPERATURE = 1.5 | SEED = "i will not leave thee , for the king"
+################################################################################
+[SimpleRNN] i will not leave thee, for the king || drunk perhaps; and let thou overthrow until thee art: are never enough marks, see, or whom he stones bosom bread conscience. edward, saw thy duty be mirth into horse me me near, with
+[BiRNN    ] i will not leave thee, for the king || drunk perhaps be true: thou canst answer thee art: are never enough marks, i undo apollo whom he did we bread conscience. edward, if gone: so, better horse unprovided me near, with
+[LSTM     ] i will not leave thee, for the king || drunk, making thursday blows thou pass until; art amen are never enough marks, that make yourselves whom he did bosom discover conscience. edward, verona tapster: so, better horse unprovided; who, with
+[GRU      ] i will not leave thee, for the king || drunk perhaps withal and statutes thou canst until thee art: precious never enough marks, accident, or whom he did bosom bread conscience. edward edward saw gone: so, better horse with me by this deeds
