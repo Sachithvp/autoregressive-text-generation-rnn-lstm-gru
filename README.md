@@ -76,7 +76,7 @@ pip install -r requirements.txt
 jupyter notebook autoregressive_text_generation.ipynb
 ```
 
-Training took about 1 to 2 minutes per model in total (see the table below). Results use a single run with seed 42, so small numerical differences are possible on other hardware.
+Training took about 1 to 2 minutes per model (about 5.5 minutes for all four). (see the table below). Results use a single run with seed 42, so small numerical differences are possible on other hardware.
 
 ## 5. Results
 
